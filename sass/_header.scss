@@ -10,9 +10,7 @@ header{
 }
 #header {
 
-    &-home{
-       
-    }
+    
 
     &-inner{
         background: $bg-image no-repeat 20% 30% / cover;
@@ -32,7 +30,7 @@ header{
     // padding-top: 20%;
     margin: 0;
     font-family: "Source Sans Pro", sans-serif;
-    min-height: 90vh;
+    height:80vh;
     display: grid;
     place-content: center;
     text-align: center;
